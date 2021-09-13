@@ -1,2 +1,2 @@
 # Reconstruction-Noisy-Meshes
-This project consists on the reconstruction of noisy meshes, using a linear filter and a heat diffusion filter to determine which of these approaches obtains better results.
+This project consists on the reconstruction of noisy meshes, using a linear filter and a heat diffusion filter to determine which of these approaches obtains better results. To do this, various noise functions are applied to the original mesh, and then both filters are applied to the obtained noisy meshes in order to try and recover the original mesh, as similar as possible.
